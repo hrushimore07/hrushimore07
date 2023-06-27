@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hrushimore07
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Machine Learning and Deep learning Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m hrushikesh More
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently Working as a Data Analyst.
+- 💞️ Talks about #sql #Python #machinelearning
 - 📫 How to reach me Hrushi.more07@gmail.com
 
 <!---
